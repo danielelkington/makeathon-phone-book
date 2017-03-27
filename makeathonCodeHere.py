@@ -14,4 +14,6 @@ class MakeathonCodeHere:
 	def personSearch(self, people, firstName, middleName, familyName):
 		#Your code here!
 		#Return a list of people found.
+
+		print 'Oops, it looks like you haven''t implemented searching yet!'
 		return []
